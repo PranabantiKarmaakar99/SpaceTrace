@@ -28,7 +28,7 @@ export const Hero = () => {
       </video>
 
       <div className="relative z-10 flex items-center justify-center h-full">
-        <div className="w-11/12 md:w-1/2 h-full text-center text-white p-4 md:p-8 flex flex-col items-center justify-center bg-opacity-50 rounded-lg">
+        <div className="w-11/12 md:w-1/2 h-full text-center text-white  p-4 md:p-8 flex flex-col items-center justify-center bg-opacity-50 rounded-lg">
           <h1 className="text-4xl md:text-6xl lg:text-8xl font-montserrat text-stone-400 text-opacity-80 font-bold mb-4">
             Space Trace
           </h1>
@@ -50,6 +50,7 @@ export const Hero = () => {
             </button>
           </div>
         </div>
+        <div className=" md:w-1/2"></div>
       </div>
     </div>
   );
