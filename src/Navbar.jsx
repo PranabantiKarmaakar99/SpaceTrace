@@ -22,7 +22,7 @@ export default function Navbar() {
         {/* Logo Section */}
         <Link to="/" className="text-2xl md:text-5xl font-bold text-white flex items-center">
           ST
-          <img src={Earth} alt="Earth Icon" className="w-10 h-10 md:w-14 md:h-14 ml-1 opacity-60" />
+          <img src={Earth} alt="Earth Icon" className="globe w-10 h-10 md:w-14 md:h-14 ml-1 opacity-60" />
         </Link>
 
         {/* Desktop Menu */}
