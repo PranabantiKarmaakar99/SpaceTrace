@@ -1,5 +1,7 @@
 SpaceTrace - Asteroid Data Visualizer
 
+Link:https://spacetrace.netlify.app/
+
 Overview
 
 SpaceTrace is a React application that utilizes NASA's Near Earth Object API to retrieve and visualize asteroid data. The app presents data using Chart.js in the form of a line chart and a pie chart, providing insights into the frequency and size distribution of asteroids.
